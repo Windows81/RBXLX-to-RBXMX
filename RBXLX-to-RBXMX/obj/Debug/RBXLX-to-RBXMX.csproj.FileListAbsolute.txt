@@ -1,0 +1,7 @@
+C:\Users\( USERNAME )\Documents\GitHub\RBXLX-to-RBXMX\RBXLX-to-RBXMX\bin\Debug\RBXLX-to-RBXMX.exe.config
+C:\Users\( USERNAME )\Documents\GitHub\RBXLX-to-RBXMX\RBXLX-to-RBXMX\bin\Debug\RBXLX-to-RBXMX.exe
+C:\Users\( USERNAME )\Documents\GitHub\RBXLX-to-RBXMX\RBXLX-to-RBXMX\bin\Debug\RBXLX-to-RBXMX.pdb
+C:\Users\( USERNAME )\Documents\GitHub\RBXLX-to-RBXMX\RBXLX-to-RBXMX\obj\Debug\RBXLX-to-RBXMX.csprojAssemblyReference.cache
+C:\Users\( USERNAME )\Documents\GitHub\RBXLX-to-RBXMX\RBXLX-to-RBXMX\obj\Debug\RBXLX-to-RBXMX.csproj.CoreCompileInputs.cache
+C:\Users\( USERNAME )\Documents\GitHub\RBXLX-to-RBXMX\RBXLX-to-RBXMX\obj\Debug\RBXLX-to-RBXMX.exe
+C:\Users\( USERNAME )\Documents\GitHub\RBXLX-to-RBXMX\RBXLX-to-RBXMX\obj\Debug\RBXLX-to-RBXMX.pdb
